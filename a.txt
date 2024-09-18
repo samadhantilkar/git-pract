@@ -1,2 +1,3 @@
 this is a new file 
 thise are some lines i added						
+initial commit
